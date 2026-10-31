@@ -1,4 +1,9 @@
-[‌简体中文](https://github.com/slayercjc/wow-auto-fishing-fuguang/blob/main/README.md)·‌[‌English](https://github.com/slayercjc/wow-auto-fishing-fuguang/blob/main/README_en.md)
+
+<div align="center">
+
+[‌简体中文](https://github.com/slayercjc/wow-auto-fishing-fuguang/blob/main/README.md) ·‌ [‌English](https://github.com/slayercjc/wow-auto-fishing-fuguang/blob/main/README_en.md)
+
+</div>
 
 # 浮光 · 魔兽世界自动钓鱼助手
 
