@@ -1,3 +1,5 @@
+[‌简体中文](https://github.com/slayercjc/wow-auto-fishing-fuguang/blob/main/README.md)·‌[‌English](https://github.com/slayercjc/wow-auto-fishing-fuguang/blob/main/README_en.md)
+
 # 浮光 · 魔兽世界自动钓鱼助手
 
 Windows 魔兽世界自动钓鱼工具：自动抛竿、鱼漂定位、咬钩声音检测与自动收鱼。用于学习交流与使用体验分享。
