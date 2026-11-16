@@ -11,7 +11,7 @@ Windows 魔兽世界自动钓鱼工具：自动抛竿、鱼漂定位、咬钩声
 
 ## 下载
 
-打开本仓库右侧 **Releases**，下载最新版本中的 `Fuguang-WoW-Auto-Fishing-1.0.4.0-Windows-x64.zip`，完整解压后运行 `FishingLearned.exe`。
+打开本仓库右侧 **Releases**，下载最新版本中的 `Fuguang-licensed-client.zip`，完整解压后运行 `FishingLearned.exe`。
 
 GitHub 自动附带的 “Source code (zip)” 不是软件安装包，请下载上面命名的软件附件。
 
